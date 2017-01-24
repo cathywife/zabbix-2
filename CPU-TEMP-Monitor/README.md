@@ -3,7 +3,7 @@
 - /etc/init.d/ipmi start
 - lsmod|grep ipmi
 - ipmitool sensor list|grep "^Temp" <br>
-cpuÊıÁ¿           µ±Ç°ÎÂ¶È      µ¥Î»£¨ÉãÊÏ¶È£©×´Ì¬
+cpuÊıÁ¿           µ±Ç°ÎÂ¶È      µ¥Î»£¨ÉãÊÏ¶È£©×´Ì<br>¬
 Temp             | 42.000     | degrees C  | ok    | na        | 3.000     | 8.000     | 83.000    | 88.000    | na        
 Temp             | 38.000     | degrees C  | ok    | na        | 3.000     | 8.000     | 83.000    | 88.000    | na <br> 
 - CPU 0 ÎÂ¶È

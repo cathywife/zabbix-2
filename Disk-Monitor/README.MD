@@ -2,8 +2,8 @@
 - вт╤╞╥╒ож╧йуос╡╪Ч╠╗╬╞ё╛╡исцzabbix╣м╪╤╥╒ожвт╤╞╥╒ож╤Ю©И╢еел
 - soft install
   rpm -ivh megacli-8.02.21-1-mdv2012.0.x86_64.rpm <br>
-- ╫е╠╬н╩жц
+- ╫е╠╬н╩ж<br>ц
   /data0/scripts/
-- пч╦д zabbix сц╩╖х╗оч
+- пч╦д zabbix сц╩╖х╗оч<br>
   echo "zabbix  ALL=(ALL)       NOPASSWD: ALL">>/etc/sudoers <br>
   echo 'Defaults:zabbix !requiretty'>>/etc/sudoers  <br>
