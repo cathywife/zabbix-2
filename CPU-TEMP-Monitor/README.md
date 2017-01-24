@@ -1,4 +1,4 @@
-# ÎÂ¶È¼à¿Ø
+# Check CPU Temp
 - yum install OpenIPMI ipmitool -y
 - /etc/init.d/ipmi start
 - ipmitool sensor list|grep "^Temp" <br>
