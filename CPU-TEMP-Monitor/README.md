@@ -2,7 +2,7 @@
 - yum install OpenIPMI ipmitool -y
 - /etc/init.d/ipmi start
 - lsmod|grep ipmi
-ipmitool sensor list|grep "^Temp"
+- ipmitool sensor list|grep "^Temp"
 cpu数量           当前温度      单位（摄氏度）状态
 Temp             | 42.000     | degrees C  | ok    | na        | 3.000     | 8.000     | 83.000    | 88.000    | na        
 Temp             | 38.000     | degrees C  | ok    | na        | 3.000     | 8.000     | 83.000    | 88.000    | na  
